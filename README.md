@@ -17,3 +17,5 @@ echo(testIn("Presence", 4, [1, 2, 4, 8]));
 echo(testNotIn("Absence", 16, [1, 2, 4, 8]));
 ```
 
+## License
+Test Card is licensed under the terms of the MIT license.
